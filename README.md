@@ -1,1 +1,1 @@
-# perfect-ruby-practice-review
+# パーフェクトRubyの学習用リポジトリ
