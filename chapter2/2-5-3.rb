@@ -6,3 +6,9 @@ class Ruler
     def display_length
         puts length # Rulerがレシーバとなってlengthメソッドが呼び出される
     end
+end
+
+ruler = Ruler.new
+ruler.length = 30
+
+ruler.display_length #30と表示
